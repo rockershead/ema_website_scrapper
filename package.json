@@ -1,0 +1,38 @@
+{
+  "name": "ema_website_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockershead/ema_website_scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "0.16.0",
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+   
+    "dotenv": "^8.2.0",
+   
+    "firebase": "^8.5.0",
+    "firebase-admin": "^10.0.2",
+    
+    "lodash": "^4.17.15",
+    "messaging-api-telegram": "^0.7.11",
+    "moment": "^2.29.1",
+   
+    "tabletojson": "^2.0.7",
+    "v2": "0.0.3",
+    "wait-for-stuff": "^1.4.0",
+    "xml2js": "^0.4.23"
+  },
+  "bugs": {
+    "url": "https://github.com/rockershead/ema_website_scrapper/issues"
+  },
+  "homepage": "https://github.com/rockershead/ema_website_scrapper#readme"
+}
