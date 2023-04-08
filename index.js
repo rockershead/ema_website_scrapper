@@ -7,11 +7,11 @@ const axios = require('axios');
 const { db } = require('./utils/firestore')
 
 const { TelegramClient } = require('messaging-api-telegram')
-const usep_bot= TelegramClient.connect('2058706635:AAHS53uOT58kF31-fPFxXprTzHrY6yZSBQI');
+const usep_bot= TelegramClient.connect('');
 
 
 
-const USEP_CHAT_ID="-649369804"
+const USEP_CHAT_ID=""
 
 
 
